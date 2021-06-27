@@ -10,9 +10,7 @@ This was written as a hobby and audio quality is really bad.
 
 You need SDL2 and SDL_ttf2 development headers and libraries(SDL2main.lib, SDL2.lib, SDL2_ttf.lib, and SDL2.dll, SDL2_ttf.dll, libfreetype-6.dll, zlib1.dll).
 
-Set the Character Set option in Visual Studio to "Multi-Byte Character Set".
-
-Load .sln project file and compile it.
+Load .sln project file, set the Character Set option in Visual Studio to "Multi-Byte Character Set",  and compile it.
 
 ## Controller
 
