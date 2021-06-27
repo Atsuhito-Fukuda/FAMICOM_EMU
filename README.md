@@ -8,7 +8,7 @@ This was written as a hobby and audio quality is really bad.
 
 ## Buldings
 
-You need SDL2 development headers and libraries(SDL2main.lib, SDL2.lib, SDL2_ttf.lib).
+You need SDL2 and SDL_ttf2 development headers and libraries(SDL2main.lib, SDL2.lib, SDL2_ttf.lib).
 
 Load .sln project file and compile it.
 
