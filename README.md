@@ -2,7 +2,7 @@
 
 An NES emulator written in C and a little C++.
 
-Only Super Mario Bros. has been tested to run (and have issues).
+Only Super Mario Bros. has been tested to run.
 
 This was written as a hobby and audio quality is really bad.
 
